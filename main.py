@@ -223,4 +223,4 @@ async def on_message(message):
 
 
 client.loop.create_task(banner_task())
-client.run('ODg5NTExOTM2MTMwMTU4NjYy.YUiUiw.pFWKjAKd0YFil-W2xSntY5S2RCA')
+client.run('ODg5NTExOTM2MTMwMTU4NjYy.YUiUiw.Xs553XgN3jJEvDA_ICX8F51tUBY')
